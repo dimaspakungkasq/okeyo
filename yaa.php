@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 //MASUKAN REF MU
-$referral = "PUTU4G6VK"; 
+$referral = "SHAF5JB95"; 
 //INDO = 62 & USA = 1
 $ct=62;
 //=============================
